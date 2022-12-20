@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Workspace</string>
+    <string name="empresa">Buró Jurídico Integral de Cobranza S.C.</string>
+    <string name="titulo_ac_consulta">Búsqueda sencilla</string>
+    <string name="boton_consulta">Consultar</string>
+</resources>
